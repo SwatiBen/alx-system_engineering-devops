@@ -1,2 +1,1 @@
-#!/bin/bash
-alias ls="rm *"
+This is one of my project
